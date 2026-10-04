@@ -1,4 +1,3 @@
-// Program to print n terms of Fibonacci Series (0 1 1 2 3 5 8 13 ...)
 #include <stdio.h>
 int main(){
     int last=1,secondLast=0,m,n;
