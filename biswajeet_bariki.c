@@ -14,4 +14,5 @@ int main(){
         last += secondLast;
         secondLast = m;
     }
+    return 0;
 }
